@@ -50,3 +50,6 @@ BalancedRandomForestClassifier and EasyEnsembleClassifier.
 
 All the models scored high on low risk.
 
+The ensemble classifiers had the best acuracy scores. 
+
+I would reccommend the EasyEnsembleClassifier has it had the highest accuracy score.
